@@ -1,43 +1,43 @@
 # 👾 Gustavo Encinas
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-Me chamo Gustavo Encinas Fernandes, tenho 20 anos e sou natural do Mato Grosso do Sul. Atualmente, estou cursando Engenharia de Software na UFMS. Sou apaixonada por tecnologia e aspirante a Desenvolvedor Fullstack; atualmente estagiando como TI pela [CardWay group](https://www.grupocard.com.br/)
+My name is Gustavo Encinas Fernandes, I'm 20 years old and from Mato Grosso do Sul, Brazil. I'm currently studying Software Engineering at UFMS. I'm passionate about technology and an aspiring Fullstack Developer; currently working as an IT intern at [CardWay group](https://www.grupocard.com.br/)
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavo-encinas-fernandes/">
         <img 
-            alt="Perfil do Linkedin" 
-            title="Perfil do Linkedin" 
-            src="https://img.shields.io/badge/linkedin-%230077B.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/gustavo-encinas-fernandes"
+            alt="LinkedIn Profile" 
+            title="LinkedIn Profile" 
+            src="https://img.shields.io/badge/linkedin-%230077B.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/gusta_encinas/">
         <img 
-            alt="Perfil do Instagram" 
-            title="Perfil do instagram" 
-            src="https://img.shields.io/badge/instagram-%230033B.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.instagram.com/gusta_encinas"
+            alt="Instagram Profile" 
+            title="Instagram Profile" 
+            src="https://img.shields.io/badge/instagram-%230033B.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/gustaEncinas?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GustaEncinas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total Stars" 
+            title="GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/GustaEncinas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/GustaEncinas?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GustaEncinas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GustaEncinas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -141,22 +141,18 @@ Me chamo Gustavo Encinas Fernandes, tenho 20 anos e sou natural do Mato Grosso d
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustaEncinas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GustaEncinas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaEncinas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaEncinas&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
-</p
+</p>
