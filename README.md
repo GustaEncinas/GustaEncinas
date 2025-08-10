@@ -58,18 +58,32 @@ ___
         <!-- Backend, Databases & DevOps -->
         <img src="https://skillicons.dev/icons?i=nodejs,python,java,postman,postgres,linux,kubernetes,jenkins,docker,vscode,rails" />
     </div>
-    <br></br>
-    <hr/>  
+    <br></br> 
+</section>
+<hr>
+<br>
+<section>
+    <h2 align="center">
+        ⚙️ Languages & Technologies ⚙️
+    <h2>
+    <div align="center">
+        <!-- Frontend, Design & Tools -->
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,javascript,typescript,figma,git,neovim" />
+        <!-- Backend, Databases & DevOps -->
+        <img src="https://skillicons.dev/icons?i=nodejs,python,java,postman,postgres,linux,kubernetes,jenkins,docker,vscode,rails" />
+    </div>
+    <br></br> 
 </section>
 <section>
-    <br/>
-    <hr/>
     <div align="center">
       <h2>🐍 Contribution Flow 🐍</h2>
-      <br>
-      <img src="https://raw.githubusercontent.com/GustaEncinas/GustaEncinas/output/snake.svg" alt="Snake animation" />
-      <br/><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustaEncinas/GustaEncinas/output/snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustaEncinas/GustaEncinas/output/snake-light.svg" />
+          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustaEncinas/GustaEncinas/output/snake-light.svg" />
+      </picture>
     </div>
+    <br/><br/>
     <hr/>
 </section>
 
