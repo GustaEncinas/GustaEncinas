@@ -18,11 +18,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake (dark)
+      - name: Generate snake (light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake-dark.svg?palette=github-dark
+          outputs: dist/snake-dark.svg?palette=github-light
 
       - name: Generate snake (light)
         uses: Platane/snk/svg-only@v3
