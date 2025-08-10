@@ -1,147 +1,79 @@
-# 👾 Gustavo Encinas
+___
+<header>
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=435&height=70&duration=1800&pause=700&color=2BBE35&lines=Hi+There!+👋;+My+name+is+Gustavo...;But+can+call+me+Gus" />
+    </div>
+</header>
 
-**`FullStack Developer`**
+___
 
-My name is Gustavo Encinas Fernandes, I'm 20 years old and from Mato Grosso do Sul, Brazil. I'm currently studying Software Engineering at UFMS. I'm passionate about technology and an aspiring Fullstack Developer; currently working as an IT intern at [CardWay group](https://www.grupocard.com.br/)
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/gustavo-encinas-fernandes/">
-        <img 
-            alt="LinkedIn Profile" 
-            title="LinkedIn Profile" 
-            src="https://img.shields.io/badge/linkedin-%230077B.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/gusta_encinas/">
-        <img 
-            alt="Instagram Profile" 
-            title="Instagram Profile" 
-            src="https://img.shields.io/badge/instagram-%230033B.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/gustaEncinas?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GustaEncinas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/GustaEncinas?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GustaEncinas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🤖 Languages & Technologies
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ruby on Rails" 
-    title="Ruby on Rails"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+<section>
+    <h2 align="center">A Software Engineer from Brazil 🇧🇷</h2>
+    <p align="center">
+        My name is Gustavo Encinas Fernandes, I'm 20 years old and from Mato Grosso do Sul, Brazil. I'm currently studying Software Engineering at UFMS. I'm passionate about technology and an aspiring Fullstack Developer; currently working as an IT intern at <a href="https://www.grupocard.com.br/"><b>CadWay group</b>
+    </p>
+    <br></br>
+    <div align="center">
+        🌱 | I'm <b>FullStack Developer</b><br />
+        <br>
+        💡 | Lover of clean code, design patterns, and all things best practices<br />
+        <br>
+        ☕ | Let’s code, coffee, and collaborate!
+        <br>
+    </div>
+    <br>
+    <p name="social_midia_icons" align="center">
+        <a href="https://www.linkedin.com/in/gustavo-encinas-fernandes/">
+            <img 
+                alt="LinkedIn Profile" 
+                title="LinkedIn Profile" 
+                src="https://img.shields.io/badge/linkedin-00FF00?&style=for-the-badge&logo=linkedin&logoColor=white"
+            />
+        </a>
+        <a href="href="mailto:dev.gustavo.encinas@gmail.com">
+            <img 
+                alt="Professional Email" 
+                title="Professional Email" 
+                src="https://img.shields.io/badge/email-32CD32?&style=for-the-badge&logo=Email&logoColor=white"
+            />
+        </a>
+        <a href="https://www.instagram.com/gusta_encinas/">
+            <img 
+                alt="Instagram Profile" 
+                title="Instagram Profile" 
+                src="https://img.shields.io/badge/instagram-228B22?&style=for-the-badge&logo=linkedin&logoColor=white"
+            />
+        </a>
+    </p>
+<section>
 
 ---
+<section>
+    <h2 align="center">
+        ⚙️ Languages & Technologies ⚙️
+    <h2>
+    <div align="center">
+        <!-- Frontend, Design & Tools -->
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,javascript,typescript,figma,git,neovim" />
+        <!-- Backend, Databases & DevOps -->
+        <img src="https://skillicons.dev/icons?i=nodejs,python,java,postman,postgres,linux,kubernetes,jenkins,docker,vscode,rails" />
+    </div>
+    <br></br>
+    <hr/>  
+</section>
+<section>
+    <br/>
+    <hr/>
+    <div align="center">
+      <h2>🐍 Contribution Flow 🐍</h2>
+      <br>
+      <img src="https://raw.githubusercontent.com/GustaEncinas/GustaEncinas/output/snake.svg" alt="Snake animation" />
+      <br/><br/><br/>
+    </div>
+    <hr/>
+</section>
 
-### 📊 Stats
+### 📊 Stats2
 
 <p align="center">
   <img 
