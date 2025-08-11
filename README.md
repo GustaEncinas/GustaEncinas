@@ -61,19 +61,7 @@ ___
     <br></br> 
 </section>
 <hr>
-<br>
-<section>
-    <h2 align="center">
-        ⚙️ Languages & Technologies ⚙️
-    <h2>
-    <div align="center">
-        <!-- Frontend, Design & Tools -->
-        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,javascript,typescript,figma,git,neovim" />
-        <!-- Backend, Databases & DevOps -->
-        <img src="https://skillicons.dev/icons?i=nodejs,python,java,postman,postgres,linux,kubernetes,jenkins,docker,vscode,rails" />
-    </div>
-    <br></br> 
-</section>
+
 <section>
     <div align="center">
       <h2>🐍 Contribution Flow 🐍</h2>
@@ -86,19 +74,25 @@ ___
     <br/><br/>
     <hr/>
 </section>
-
-### 📊 Stats2
-
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=GustaEncinas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaEncinas&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
+        
+<h2 align="center">📊 GitHub States 📊</h2>
+<br>
+<div align=center>
+    <table>
+      <tr>
+        <td>
+          <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app?user=GustaEncinas&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=EBEBEBEB&stroke=EBEBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=45%2C2BBE35EB%2C135418EB" alt="streak stats"/>
+        </td>
+        <td>
+          <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=GustaEncinas&count_private=true&show_icons=true&theme=shadow_green&hide_border=true&border_radius=10&bg_color=45,2BBE35EB,135418EB&title_color=EBEBEB&text_color=EBEBEB&icon_color=EBEBEB" alt="stats" />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <!--<img width="500" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GustaEncinas&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=shadow_green&hide_border=true&border_radius=10&bg_color=45,2BBE35EB,135418EB&title_color=EBEBEB&text_color=EBEBEB" alt="top langs" />-->
+        </td>
+      </tr>
+    </table>
+</div>
+<br>
+<hr>
