@@ -10,7 +10,7 @@ ___
 <section>
     <h2 align="center">A Software Engineer from Brazil 🇧🇷</h2>
     <p align="center">
-        My name is Gustavo Encinas Fernandes, I'm 20 years old and from Mato Grosso do Sul, Brazil. I'm currently studying Software Engineering at UFMS. I'm passionate about technology and an aspiring Fullstack Developer; currently working as an IT intern at <a href="https://www.grupocard.com.br/"><b>CadWay group</b>
+        My name is Gustavo Encinas Fernandes, I'm 21 years old and from Mato Grosso do Sul, Brazil. I'm currently studying Software Engineering at UFMS. I'm passionate about technology and an aspiring Fullstack Developer; currently working as an FullStack Developer at <a href="https://alfaneo.ai/"><b>Alfaneo, Legal-AI</b>
     </p>
     <br></br>
     <div align="center">
@@ -54,9 +54,9 @@ ___
     <h2>
     <div align="center">
         <!-- Frontend, Design & Tools -->
-        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,javascript,typescript,figma,git,neovim" />
+            <img src="https://skillicons.dev/icons?i=nodejs,python,java,terraform,postgres,linux,kubernetes,jenkins,docker,nginx,rabbitmq" />
         <!-- Backend, Databases & DevOps -->
-        <img src="https://skillicons.dev/icons?i=nodejs,python,java,postman,postgres,linux,kubernetes,jenkins,docker,vscode,rails" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,aws,django,tailwind,kafka,redis,typescript,gitlab,obsidian,neovim" />
     </div>
     <br></br> 
 </section>
