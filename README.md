@@ -10,7 +10,7 @@ ___
 <section>
     <h2 align="center">A Software Engineer from Brazil 🇧🇷</h2>
     <p align="center">
-        My name is Gustavo Encinas Fernandes, I'm 21 years old and from Mato Grosso do Sul, Brazil. I'm currently studying Software Engineering at UFMS. I'm passionate about technology and an aspiring Fullstack Developer; currently working as an FullStack Developer at <a href="https://alfaneo.ai/"><b>Alfaneo, Legal-AI</b>
+        My name is Gustavo Encinas Fernandes, I'm 21 years old and from Mato Grosso do Sul, Brazil. I'm currently studying Software Engineering at UFMS. I'm passionate about technology and an aspiring Fullstack Developer; currently working as an FullStack Developer at <a href="https://alfaneo.ai/"><b>Alfaneo</b>
     </p>
     <br></br>
     <div align="center">
